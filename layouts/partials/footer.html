@@ -1,0 +1,1 @@
+{{ $ui := index site.Data.ui .Language.Lang }}<aside class="concept-notice container" aria-label="{{ if eq .Language.Lang "ja" }}構想案について{{ else }}Concept status{{ end }}"><strong>{{ $ui.draft }}</strong><p>{{ $ui.notice }}</p></aside><footer class="site-footer container"><p>{{ $ui.footer }}</p><a href="{{ (.Site.GetPage "contact").RelPermalink }}">{{ $ui.contact }} ↗</a></footer>

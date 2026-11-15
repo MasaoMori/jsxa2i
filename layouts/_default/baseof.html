@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="{{ .Language.Lang }}">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Title }} | {{ site.Title }}</title>
+<meta name="description" content="{{ .Description | default site.Params.description }}">
+<meta name="robots" content="noindex, nofollow">
+{{ range .AllTranslations }}<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">{{ end }}
+<link rel="stylesheet" href="{{ "assets/css/style.css" | relURL }}">
+<link rel="icon" href="{{ "assets/images/favicon.svg" | relURL }}" type="image/svg+xml"></head>
+<body>{{ $ui := index site.Data.ui .Language.Lang }}
+<a class="skip-link" href="#main">{{ $ui.skip }}</a>
+{{ partial "header.html" . }}
+<main id="main" class="{{ if .IsHome }}home{{ else }}page-shell{{ end }}">{{ block "main" . }}{{ end }}</main>
+{{ partial "footer.html" . }}</body></html>

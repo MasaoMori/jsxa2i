@@ -1,0 +1,44 @@
+[
+  {
+    "number": "01",
+    "ja": "国際的な学術情報流通の促進",
+    "en": "International Dissemination of Scholarly Knowledge",
+    "text_ja": "国や地域、言語による学術情報へのアクセスの障壁を低減し、応用情報学の研究成果を国際的に発見・理解・利用できる環境の形成を目指します。",
+    "text_en": "Reduce barriers across countries, regions and languages so that scholarly outputs in applied informatics can be discovered, understood and used internationally."
+  },
+  {
+    "number": "02",
+    "ja": "学術領域を越えた知識の連携",
+    "en": "Interdisciplinary Knowledge Exchange",
+    "text_ja": "応用情報学を共通基盤とし、IR、教育システム、データサイエンス、人工知能等の研究領域間における学術的知識の交流と相互活用を促進します。",
+    "text_en": "Use applied informatics as shared ground for exchange and mutual use of knowledge across institutional research, educational systems, data science, artificial intelligence and related fields."
+  },
+  {
+    "number": "03",
+    "ja": "学術情報の公開性と相互運用性",
+    "en": "Openness and Interoperability",
+    "text_ja": "学術情報の公開と適切な再利用を推進し、国際的に普及している識別子及びメタデータ標準の活用によって、情報システム間の相互運用性を高めます。",
+    "text_en": "Promote access and appropriate reuse, and improve interoperability through widely used scholarly identifiers and metadata standards."
+  },
+  {
+    "number": "04",
+    "ja": "学術コミュニティの自律性と協働",
+    "en": "Academic Independence and Collaboration",
+    "text_ja": "参加する学協会・研究機関の独立性及び学術的自律性を尊重し、対等な立場での協働を通じて国際的な学術交流を発展させます。",
+    "text_en": "Respect the independence and academic autonomy of participating societies and institutions, and advance international exchange through collaboration on equal terms."
+  },
+  {
+    "number": "05",
+    "ja": "学術情報の信頼性と責任ある利用",
+    "en": "Integrity and Responsible Use",
+    "text_ja": "学術情報の出典、著作者、権利関係及び研究倫理を尊重し、正確で検証可能な情報の提供と責任ある利用を推進します。",
+    "text_en": "Respect provenance, authorship, rights and research ethics, and support accurate, verifiable information and responsible use."
+  },
+  {
+    "number": "06",
+    "ja": "持続的な知識の共有と継承",
+    "en": "Sustainable Scholarly Communication",
+    "text_ja": "特定の技術や情報サービスへの過度な依存を避け、学術情報を長期的に参照・継承できる仕組みの形成を目指します。",
+    "text_en": "Avoid excessive dependence on a single technology or service, and support the long-term reference, sharing and transmission of scholarly knowledge."
+  }
+]

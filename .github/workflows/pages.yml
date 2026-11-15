@@ -1,0 +1,66 @@
+name: Build and deploy Hugo to GitHub Pages
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
+env:
+  HUGO_VERSION: '0.147.9'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Install Hugo
+        shell: bash
+        run: |
+          archive="hugo_${HUGO_VERSION}_linux-amd64.tar.gz"
+          release="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}"
+          curl --fail --location --retry 3 "$release/$archive" -o "$RUNNER_TEMP/$archive"
+          curl --fail --location --retry 3 "$release/hugo_${HUGO_VERSION}_checksums.txt" -o "$RUNNER_TEMP/checksums.txt"
+          cd "$RUNNER_TEMP"
+          grep " $archive$" checksums.txt | sha256sum --check
+          mkdir -p "$RUNNER_TEMP/hugo-bin"
+          tar -xzf "$archive" -C "$RUNNER_TEMP/hugo-bin" hugo
+          echo "$RUNNER_TEMP/hugo-bin" >> "$GITHUB_PATH"
+      - name: Configure Pages
+        id: pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+      - name: Build
+        env:
+          PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: |
+          base_url="${PAGES_BASE_URL:-https://example.org}"
+          hugo --baseURL "${base_url%/}/" --panicOnWarning
+      - name: Check generated site
+        run: python3 scripts/check_site.py public
+      - name: Check repository subpath
+        if: github.event_name == 'pull_request'
+        run: |
+          hugo --baseURL https://example.org/aikx-test/ --destination "$RUNNER_TEMP/aikx-subpath" --panicOnWarning
+          python3 scripts/check_site.py "$RUNNER_TEMP/aikx-subpath" /aikx-test
+      - uses: actions/upload-pages-artifact@v4
+        if: github.event_name != 'pull_request'
+        with:
+          path: public
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

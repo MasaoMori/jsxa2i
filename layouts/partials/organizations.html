@@ -1,0 +1,4 @@
+<div class="organization-list">
+{{ $lang := .Language.Lang }}{{ range site.Data.organizations }}
+<section class="organization"><p class="org-id">{{ .id }}</p><h3>{{ index . $lang }}</h3><p>{{ index . (printf "area_%s" $lang) }}</p><a href="{{ .url }}">{{ if eq $lang "ja" }}公式サイト{{ else }}Official website{{ end }} ↗</a></section>
+{{ end }}</div>

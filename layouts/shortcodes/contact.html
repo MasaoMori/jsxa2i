@@ -1,0 +1,1 @@
+{{ with site.Params.contact_email }}{{ if eq $.Page.Language.Lang "ja" }}担当者が設定した連絡先：{{ else }}Contact configured by the editor: {{ end }}<a href="mailto:{{ . }}">{{ . }}</a>{{ else }}{{ if eq .Page.Language.Lang "ja" }}正式な窓口の確定後、このページに連絡先を掲載する予定です。{{ else }}A contact address is intended to be published here once an authorized contact point is confirmed.{{ end }}{{ end }}

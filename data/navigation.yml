@@ -1,0 +1,24 @@
+- key: home
+  en: "Home"
+  ja: "ホーム"
+- key: mission
+  en: "Vision & Mission"
+  ja: "理念・目的"
+- key: principles
+  en: "Principles"
+  ja: "基本方針"
+- key: applied-informatics
+  en: "Applied Informatics"
+  ja: "応用情報学"
+- key: activities
+  en: "Activities"
+  ja: "活動"
+- key: organizations
+  en: "Organizations"
+  ja: "参加想定団体"
+- key: resources
+  en: "Resources"
+  ja: "学術情報"
+- key: contact
+  en: "Contact"
+  ja: "お問い合わせ"

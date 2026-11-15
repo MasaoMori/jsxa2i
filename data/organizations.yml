@@ -1,0 +1,26 @@
+[
+  {
+    "id": "JAIR",
+    "ja": "日本インスティテューショナル・リサーチ協会",
+    "en": "Japan Association for Institutional Research",
+    "url": "https://jairweb.jp/",
+    "area_ja": "IRに関する研究と実践、大学・機関の情報分析や意思決定に関わる知見。",
+    "area_en": "Research and practice in institutional research, including institutional analysis and decision-making."
+  },
+  {
+    "id": "JSiSE",
+    "ja": "教育システム情報学会",
+    "en": "Japanese Society for Information and Systems in Education",
+    "url": "https://www.jsise.org/",
+    "area_ja": "教育・学習を支える情報システムに関する研究・開発・利用と学術交流。",
+    "area_en": "Research, development, use and scholarly exchange concerning systems for education and learning."
+  },
+  {
+    "id": "IIAI",
+    "ja": "応用情報学研究機構",
+    "en": "International Institute of Applied Informatics",
+    "url": "https://www.iaiai.org/",
+    "area_ja": "応用情報学に関わる研究分野をつなぐ国際的な学術交流。",
+    "area_en": "International scholarly exchange across fields related to applied informatics."
+  }
+]
