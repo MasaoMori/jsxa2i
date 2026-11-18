@@ -27,7 +27,7 @@ Scholarly information dissemination, international academic exchange, interdisci
 
 [Explore the proposed activities →]({{< siteurl "en/activities/" >}})
 
-## Three organizations envisaged for collaboration
+## Two organizations envisaged for collaboration
 
 These organizations are named as part of the concept. Their participation, roles and joint operation have not been formally agreed.
 

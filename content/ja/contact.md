@@ -18,6 +18,5 @@ AIKX専用の運営主体及び連絡窓口は、現時点では未確定です�
 
 各団体の入会、出版物、研究集会等については、それぞれの公式サイトに記載された窓口をご利用ください。それらはAIKXの窓口ではありません。
 
-- [JAIR公式サイト](https://jairweb.jp/)
 - [JSiSE公式サイト](https://www.jsise.org/)
-- [IIAI公式サイト](https://www.iaiai.org/)
+- [JAIR公式サイト](https://jairweb.jp/)

@@ -11,7 +11,7 @@ To create an international scholarly environment in which knowledge in applied i
 
 ## Mission
 
-The proposed network aims to promote the international circulation of scholarly information in applied informatics and related fields.
+Starting from collaboration between societies in educational systems and in institutional research, the proposed network aims to promote the international circulation of scholarly information in applied informatics and related fields.
 
 Through cooperation among academic societies and research institutions, it seeks to support the collection, organization, sharing and dissemination of research outputs, scholarly insights and information about research activities. It also aims to encourage exchange between researchers and practitioners and the mutual use of knowledge across disciplines.
 

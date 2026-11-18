@@ -16,4 +16,4 @@ The concept respects the names, expertise, membership systems, publishing polici
 
 ### Sources for organizational descriptions
 
-The official website links above are the sources for these introductory descriptions. Names follow the linked websites; the Japanese rendering of IIAI is the name used in this concept.
+The official website links above are the sources for these introductory descriptions. Names follow the linked websites.

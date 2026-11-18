@@ -18,6 +18,5 @@ Potential topics include resource suggestions, source corrections, interdiscipli
 
 For membership, publications and meetings, use the contacts on the respective official websites. These are not AIKX contact points.
 
-- [JAIR official website](https://jairweb.jp/)
 - [JSiSE official website](https://www.jsise.org/)
-- [IIAI official website](https://www.iaiai.org/)
+- [JAIR official website](https://jairweb.jp/)

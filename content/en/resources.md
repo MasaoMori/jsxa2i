@@ -10,9 +10,8 @@ This page directs readers to existing organizational sources. Check access condi
 
 | Source | Information to explore | Entry point |
 | --- | --- | --- |
-| JAIR | Institutional research, practice and association activities | [JAIR official website](https://jairweb.jp/) |
 | JSiSE | Journals, research meetings and research reports | [JSiSE official website](https://www.jsise.org/) |
-| IIAI | Scholarly activities and publishing in applied informatics | [IIAI official website](https://www.iaiai.org/) |
+| JAIR | Institutional research, practice and association activities | [JAIR official website](https://jairweb.jp/) |
 
 ## Following knowledge to its source
 

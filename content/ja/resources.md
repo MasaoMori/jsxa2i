@@ -10,9 +10,8 @@ url: "/ja/resources/"
 
 | 発信元 | 案内する情報 | 入口 |
 | --- | --- | --- |
-| JAIR | IRに関する研究・実践や協会活動の情報 | [JAIR公式サイト](https://jairweb.jp/) |
 | JSiSE | 学会誌・論文誌、研究会、研究報告等の情報 | [JSiSE公式サイト](https://www.jsise.org/) |
-| IIAI | 応用情報学に関する学術活動・出版情報 | [IIAI公式サイト](https://www.iaiai.org/) |
+| JAIR | IRに関する研究・実践や協会活動の情報 | [JAIR公式サイト](https://jairweb.jp/) |
 
 ## 原典にたどり着くために
 

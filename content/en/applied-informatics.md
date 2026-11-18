@@ -8,7 +8,7 @@ url: "/en/applied-informatics/"
 
 Applied informatics is understood here as an interdisciplinary field that studies the collection, representation, analysis, circulation and use of information in diverse domains, connecting that inquiry to the understanding and resolution of real-world problems. Alongside technology development, it includes the meaning of information, its context of use and its effects on organizations and society.
 
-This is a working definition for the AIKX concept. It does not represent a universal definition or an official position of any of the three organizations.
+This is a working definition for the AIKX concept. It does not represent a universal definition or an official position of either of the two organizations.
 
 ## Connecting areas of inquiry
 

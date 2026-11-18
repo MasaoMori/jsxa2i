@@ -1,6 +1,6 @@
 # AIKX — Hugo版（GitHub登録用）
 
-Applied Informatics Knowledge Exchange（仮称）の構想紹介サイトです。Jekyll版 `aikx-site-jeklly` の日英本文・共通データ・デザインをHugoへ移植しました。JAIR・JSiSE・IIAIの正式合意前の検討用たたき台です。
+Applied Informatics Knowledge Exchange（仮称）の構想紹介サイトです。Jekyll版 `aikx-site-jeklly` の日英本文・共通データ・デザインをHugoへ移植しました。JSiSE・JAIRの正式合意前の検討用たたき台です。
 
 ## ローカル確認
 
@@ -28,7 +28,7 @@ python3 scripts/check_site.py public /REPOSITORY
 
 - `content/en/`・`content/ja/`：各8ページ。ホームは `_index.md`。
 - `hugo.toml`：共通設定、多言語設定、連絡先。
-- `data/`：メニュー、3団体、6方針、共通注記。
+- `data/`：メニュー、2団体、6方針、共通注記。
 - `layouts/`：HTML構造、共通部品、ショートコード。
 - `static/assets/`：CSSとSVGアイコン。
 - `public/`：生成結果（編集対象外、Git管理対象外）。
