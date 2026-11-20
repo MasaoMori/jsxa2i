@@ -1,12 +1,12 @@
 baseURL = 'https://example.org/'
-title = 'AIKX'
+title = 'JSXA²I'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 timeZone = 'Asia/Tokyo'
 disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap']
 [params]
-  name = 'Applied Informatics Knowledge Exchange'
-  description = 'A concept for international scholarly knowledge exchange in applied informatics.'
+  name = 'Japan Scholarly Exchange Alliance for Applied Informatics'
+  description = 'A proposed alliance of Japanese scholarly societies to share research across institutions, disciplines and borders.'
   contact_email = ''
 [languages.en]
   languageCode = 'en'

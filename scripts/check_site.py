@@ -41,7 +41,7 @@ for file,page in files.items():
         elif u.fragment and target in files and unquote(u.fragment) not in files[target].ids:
             errors.append(f'Broken fragment: {file}: {link}')
 for lang in ('en','ja'):
-    for key in ('','mission','principles','applied-informatics','activities','organizations','resources','contact'):
+    for key in ('','mission','founding','establishment-statement','bylaws','principles','applied-informatics','activities','organizations','resources','contact'):
         p=root/lang/key/'index.html'
         if p not in files: errors.append(f'Missing page: {p}')
         elif key:

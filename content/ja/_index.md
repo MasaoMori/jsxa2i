@@ -4,11 +4,11 @@ translationKey: "home"
 ---
 
 <section class="hero container">
-<p class="eyebrow">APPLIED INFORMATICS KNOWLEDGE EXCHANGE</p>
-<h1>知をつなぐ。<br>境界を越えて。</h1>
-<p class="hero-lead">応用情報学の知識を、国境・言語・学術領域を越えて。<br>公開、協働、知識の交流を通じて、学術情報の国際的な流通を目指します。</p>
-<p class="hero-links"><a class="button" href="{{< siteurl "ja/mission/" >}}">理念・目的を読む ↗</a><a href="{{< siteurl "ja/principles/" >}}">6つの基本方針 →</a></p>
-<div class="knowledge-map" aria-hidden="true"><span class="map-label label-a">INSTITUTIONAL RESEARCH</span><span class="map-label label-b">EDUCATION & LEARNING</span><span class="map-label label-c">APPLIED INFORMATICS</span><span class="map-core">AIKX<small>KNOWLEDGE EXCHANGE</small></span></div>
+<p class="eyebrow">Japan Scholarly Exchange Alliance for Applied Informatics</p>
+<h1>日本応用情報学<br>学術交流連合</h1>
+<p class="hero-lead">国内の学協会が対等に協力し、応用情報学と関連領域の学術情報を、組織・分野・国境を越えて共有するための連合構想です。</p>
+<p class="hero-links"><a class="button" href="{{< siteurl "ja/founding/" >}}">設立趣意書・定款を読む</a><a href="{{< siteurl "ja/principles/" >}}">6つの基本原則</a></p>
+<div class="knowledge-map" aria-hidden="true"><span class="map-label label-a">INSTITUTIONAL RESEARCH</span><span class="map-label label-b">EDUCATION & LEARNING</span><span class="map-label label-c">APPLIED INFORMATICS</span><span class="map-core">JSXA²I<small>KNOWLEDGE EXCHANGE</small></span></div>
 </section>
 {{% home-content %}}
 
@@ -22,7 +22,7 @@ translationKey: "home"
 
 ## 想定する活動
 
-学術情報の紹介と流通、国際的な学術交流、学際的な知識共有、情報の相互運用性の向上を活動領域として想定しています。
+学術情報の国内外への流通、学協会間の交流、分野横断の知識共有を推進します。永続的識別子（PID）とメタデータ標準の活用を進め、国内の学術コミュニティへのPIDの普及を図ります。
 
 [活動の考え方を読む →]({{< siteurl "ja/activities/" >}})
 

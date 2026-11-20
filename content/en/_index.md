@@ -5,17 +5,17 @@ outputs: ["HTML", "ENHome"]
 ---
 
 <section class="hero container">
-<p class="eyebrow">APPLIED INFORMATICS KNOWLEDGE EXCHANGE</p>
-<h1>Connecting knowledge<br>beyond boundaries.</h1>
-<p class="hero-lead">A proposed international exchange for applied informatics.<br>Connecting scholarly knowledge through openness, collaboration and shared understanding.</p>
-<p class="hero-links"><a class="button" href="{{< siteurl "en/mission/" >}}">Our vision & mission ↗</a><a href="{{< siteurl "en/principles/" >}}">Our six principles →</a></p>
-<div class="knowledge-map" aria-hidden="true"><span class="map-label label-a">INSTITUTIONAL RESEARCH</span><span class="map-label label-b">EDUCATION & LEARNING</span><span class="map-label label-c">APPLIED INFORMATICS</span><span class="map-core">AIKX<small>KNOWLEDGE EXCHANGE</small></span></div>
+<p class="eyebrow">JSXA²I</p>
+<h1>Japan Scholarly Exchange Alliance<br>for Applied Informatics</h1>
+<p class="hero-lead">A proposed alliance of Japanese scholarly societies to share research across institutions, disciplines and borders.</p>
+<p class="hero-links"><a class="button" href="{{< siteurl "en/founding/" >}}">Read the founding documents</a><a href="{{< siteurl "en/principles/" >}}">Our six principles</a></p>
+<div class="knowledge-map" aria-hidden="true"><span class="map-label label-a">INSTITUTIONAL RESEARCH</span><span class="map-label label-b">EDUCATION & LEARNING</span><span class="map-label label-c">APPLIED INFORMATICS</span><span class="map-core">JSXA²I<small>KNOWLEDGE EXCHANGE</small></span></div>
 </section>
 {{% home-content %}}
 
 ## From publishing knowledge to circulating knowledge
 
-AIKX envisions a scholarly environment in which research can be discovered, understood, referenced and responsibly reused across disciplines and languages. It aims to connect research and practice and sustain a cycle of knowledge creation, exchange and use.
+JSXA²I envisions a scholarly environment in which research can be discovered, understood, referenced and responsibly reused across disciplines and languages. It aims to connect research and practice and sustain a cycle of knowledge creation, exchange and use.
 
 ### Six principles at the heart of the concept
 
@@ -23,7 +23,7 @@ AIKX envisions a scholarly environment in which research can be discovered, unde
 
 ## Proposed areas of activity
 
-Scholarly information dissemination, international academic exchange, interdisciplinary knowledge sharing and scholarly information interoperability.
+The proposed alliance will support scholarly information exchange in Japan and abroad, collaboration among societies and knowledge sharing across disciplines. It will promote the use and adoption of persistent identifiers (PIDs) alongside metadata standards.
 
 [Explore the proposed activities →]({{< siteurl "en/activities/" >}})
 

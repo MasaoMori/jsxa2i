@@ -4,9 +4,9 @@ translationKey: "contact"
 url: "/en/contact/"
 ---
 
-## Contacting AIKX
+## Contacting JSXA²I
 
-The operator and dedicated contact point for AIKX have not yet been determined. This draft does not accept contact submissions.
+The operator and dedicated contact point for JSXA²I have not yet been determined. This draft does not accept contact submissions.
 
 {{< contact >}}
 
@@ -16,7 +16,7 @@ Potential topics include resource suggestions, source corrections, interdiscipli
 
 ## Existing activities of each organization
 
-For membership, publications and meetings, use the contacts on the respective official websites. These are not AIKX contact points.
+For membership, publications and meetings, use the contacts on the respective official websites. These are not JSXA²I contact points.
 
 - [JSiSE official website](https://www.jsise.org/)
 - [JAIR official website](https://jairweb.jp/)

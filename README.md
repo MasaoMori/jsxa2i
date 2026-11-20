@@ -1,6 +1,6 @@
-# AIKX — Hugo版（GitHub登録用）
+# 日本応用情報学学術交流連合（JSXA²I）
 
-Applied Informatics Knowledge Exchange（仮称）の構想紹介サイトです。Jekyll版 `aikx-site-jeklly` の日英本文・共通データ・デザインをHugoへ移植しました。JSiSE・JAIRの正式合意前の検討用たたき台です。
+日本応用情報学学術交流連合の設立構想を紹介する日英のHugoサイトです。設立趣意書（改訂第2案）と定款（改訂第6案）を掲載しています。JSiSE・JAIRの正式承認前の検討用サイトです。
 
 ## ローカル確認
 
@@ -26,11 +26,12 @@ python3 scripts/check_site.py public /REPOSITORY
 
 ## 構成と編集
 
-- `content/en/`・`content/ja/`：各8ページ。ホームは `_index.md`。
+- `content/en/`・`content/ja/`：各11ページ。ホームは `_index.md`。
 - `hugo.toml`：共通設定、多言語設定、連絡先。
 - `data/`：メニュー、2団体、6方針、共通注記。
 - `layouts/`：HTML構造、共通部品、ショートコード。
 - `static/assets/`：CSSとSVGアイコン。
+- `static/documents/`：設立文書のUTF-8 Markdown原本。改訂時は日本語掲載本文と英語概要も合わせて更新します。
 - `public/`：生成結果（編集対象外、Git管理対象外）。
 - `scripts/check_site.py`：生成済みページと内部リンクの検査。Python 3.9以上、追加パッケージ不要。
 
@@ -50,11 +51,17 @@ python3 scripts/check_site.py public /REPOSITORY
 
 ## GitHub Pages
 
-GitHubに登録するのはこの `aikx` フォルダです。推奨リポジトリ名は `aikx`、公開URLの例は `https://OWNER.github.io/aikx/` です。`aikx-site-hugo` は移植元の保存用コピーです。
+リポジトリ名は `jsxa2i` です。GitHub Pages の公開先は [サイトトップ](https://masaomori.github.io/jsxa2i/) です。
 
-1. このフォルダの中身をリポジトリのルートへ配置します。`.github/` も含めます。
-2. Settings → Pages → Source を **GitHub Actions** にします。
-3. `main` へ反映すると生成・検査・公開が実行されます。手動実行も可能です。
+Settings → Pages → Source は **GitHub Actions** です。`main` へ反映すると生成・検査・公開が実行されます。手動実行も可能です。
+
+旧リポジトリ名で取得した作業コピーは、次のコマンドで接続先を更新できます。
+
+```sh
+git remote set-url origin https://github.com/MasaoMori/jsxa2i.git
+```
+
+旧 GitHub Pages URL の `/aikx/` を参照している外部リンクは、新しい `/jsxa2i/` に更新してください。
 
 PRでは生成と検査だけを行います。ワークフローがPagesの公開URLをHugoへ渡すため、`hugo.toml` の例示URLを書き換えずに利用できます。別のブランチを使用する場合はワークフローの `main` を変更します。Hugo更新時はREADMEとワークフローのバージョンを合わせ、両URL形式で再検査してください。
 

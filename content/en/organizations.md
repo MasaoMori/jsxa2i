@@ -4,15 +4,15 @@ translationKey: "organizations"
 url: "/en/organizations/"
 ---
 
-## Organizations envisaged for collaboration
+## Proposed founding societies
 
-The concept envisages collaboration among the following organizations. No formal agreement on participation, joint operation or allocation of roles is represented here. Inclusion does not imply endorsement. Descriptions summarize public information and do not assign AIKX responsibilities.
+Article 2 of the supplementary provisions names the following two proposed founding societies. Formal approval by both societies is pending.
 
 {{< organizations >}}
 
 ## Collaboration with academic autonomy
 
-The concept respects the names, expertise, membership systems, publishing policies and independent activities of each organization. It does not presuppose a merger. Participation conditions and decision-making arrangements remain undecided.
+The concept respects the names, expertise, membership systems, publishing policies and independent activities of each organization. It does not presuppose a merger. The [draft bylaws]({{< siteurl "en/bylaws/" >}}) describe membership and how the Steering Council would make decisions.
 
 ### Sources for organizational descriptions
 

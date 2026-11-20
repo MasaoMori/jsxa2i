@@ -1,5 +1,5 @@
 {{ $page := . }}{{ $ui := index site.Data.ui .Language.Lang }}
 <div class="draft-bar"><div class="container">{{ $ui.draft }}</div></div>
-<header class="site-header container"><a class="brand" href="{{ .Site.Home.RelPermalink }}" aria-label="AIKX Home">AIKX<span>Applied Informatics<br>Knowledge Exchange</span></a>
+<header class="site-header container"><a class="brand" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}<span>{{ if eq .Language.Lang "ja" }}日本応用情報学学術交流連合{{ else }}Japan Scholarly Exchange Alliance<br>for Applied Informatics{{ end }}</span></a>
 <nav class="language" aria-label="Language / 言語">{{ range .AllTranslations }}<a href="{{ .RelPermalink }}" lang="{{ .Language.Lang }}" hreflang="{{ .Language.Lang }}" {{ if eq .Language.Lang $page.Language.Lang }}aria-current="true"{{ end }}>{{ if eq .Language.Lang "en" }}EN{{ else }}日本語{{ end }}</a>{{ end }}</nav>
 <nav class="main-nav" aria-label="{{ $ui.menu }}">{{ range site.Data.navigation }}{{ $target := $page.Site.Home }}{{ if ne .key "home" }}{{ $target = $page.Site.GetPage .key }}{{ end }}<a href="{{ $target.RelPermalink }}" {{ if eq $target $page }}aria-current="page"{{ end }}>{{ index . $page.Language.Lang }}</a>{{ end }}</nav></header>

@@ -6,21 +6,21 @@ url: "/en/activities/"
 
 These are proposed areas of activity, not announcements of ongoing projects or available services.
 
-## 01. Scholarly Information Dissemination
+## Scholarly Information Dissemination
 
-Introduce papers, proceedings and other research outputs internationally through links and clear references to their original sources.
+Introduce papers, proceedings and other research outputs in Japan and abroad through links and clear references to their original sources.
 
-## 02. International Academic Exchange
+## Academic Exchange and Collaboration
 
 Connect information about conferences, research meetings, researcher and practitioner exchange, and cooperation among scholarly communities.
 
-## 03. Interdisciplinary Knowledge Sharing
+## Interdisciplinary Knowledge Sharing
 
 Share research questions, methods, results and practical insights so that they can be understood and referenced across disciplines.
 
-## 04. Scholarly Information Interoperability
+## Scholarly Information Interoperability
 
-Seek better discoverability and connections through appropriate metadata and scholarly identifiers such as DOI, ORCID and ROR.
+Use persistent identifiers (PIDs) such as DOI, ORCID and ROR alongside metadata standards to connect research outputs, researchers and institutions. Help Japanese scholarly communities understand and adopt persistent identifiers in their own work.
 
 ## Relationship to existing services
 

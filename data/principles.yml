@@ -1,8 +1,8 @@
 [
   {
     "number": "01",
-    "ja": "国際的な学術情報流通の促進",
-    "en": "International Dissemination of Scholarly Knowledge",
+    "ja": "学術情報の国内外への流通",
+    "en": "Scholarly Information Dissemination in Japan and Abroad",
     "text_ja": "国や地域、言語による学術情報へのアクセスの障壁を低減し、応用情報学の研究成果を国際的に発見・理解・利用できる環境の形成を目指します。",
     "text_en": "Reduce barriers across countries, regions and languages so that scholarly outputs in applied informatics can be discovered, understood and used internationally."
   },
@@ -17,15 +17,15 @@
     "number": "03",
     "ja": "学術情報の公開性と相互運用性",
     "en": "Openness and Interoperability",
-    "text_ja": "学術情報の公開と適切な再利用を推進し、国際的に普及している識別子及びメタデータ標準の活用によって、情報システム間の相互運用性を高めます。",
-    "text_en": "Promote access and appropriate reuse, and improve interoperability through widely used scholarly identifiers and metadata standards."
+    "text_ja": "学術情報の公開と適切な再利用を推進し、学術情報の国際的な永続的識別子（PID）及びメタデータ標準の活用によって、情報システム間の相互運用性を高めます。",
+    "text_en": "Promote access and appropriate reuse, and improve interoperability through international persistent identifiers (PIDs) and metadata standards."
   },
   {
     "number": "04",
     "ja": "学術コミュニティの自律性と協働",
     "en": "Academic Independence and Collaboration",
-    "text_ja": "参加する学協会・研究機関の独立性及び学術的自律性を尊重し、対等な立場での協働を通じて国際的な学術交流を発展させます。",
-    "text_en": "Respect the independence and academic autonomy of participating societies and institutions, and advance international exchange through collaboration on equal terms."
+    "text_ja": "各構成団体の独立性及び学術的自律性を尊重し、対等な立場での協働を通じて国際的な学術交流を発展させます。",
+    "text_en": "Respect the independence and academic autonomy of member societies, and advance international exchange through collaboration on equal terms."
   },
   {
     "number": "05",
