@@ -5,9 +5,11 @@ outputs: ["HTML", "ENHome"]
 ---
 
 <section class="hero container">
-{{< home-banner >}}
+<p class="eyebrow">JSXA²I</p>
+<h1>Japan Scholarly Exchange Alliance<br>for Applied Informatics</h1>
 <p class="hero-lead">A proposed alliance of Japanese scholarly societies to share research across institutions, disciplines and borders.</p>
 <p class="hero-links"><a class="button" href="{{< siteurl "en/founding/" >}}">Read the founding documents</a><a href="{{< siteurl "en/principles/" >}}">Our six principles</a></p>
+<div class="knowledge-map" aria-hidden="true"><span class="map-label label-a">INSTITUTIONAL RESEARCH</span><span class="map-label label-b">EDUCATION & LEARNING</span><span class="map-label label-c">APPLIED INFORMATICS</span><span class="map-core">JSXA²I<small>KNOWLEDGE EXCHANGE</small></span></div>
 </section>
 {{% home-content %}}
 

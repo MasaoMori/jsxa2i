@@ -4,9 +4,11 @@ translationKey: "home"
 ---
 
 <section class="hero container">
-{{< home-banner >}}
+<p class="eyebrow">Japan Scholarly Exchange Alliance for Applied Informatics</p>
+<h1>日本応用情報学<br>学術交流連合</h1>
 <p class="hero-lead">国内の学協会が対等に協力し、応用情報学と関連領域の学術情報を、組織・分野・国境を越えて共有するための連合構想です。</p>
 <p class="hero-links"><a class="button" href="{{< siteurl "ja/founding/" >}}">設立趣意書・定款を読む</a><a href="{{< siteurl "ja/principles/" >}}">6つの基本原則</a></p>
+<div class="knowledge-map" aria-hidden="true"><span class="map-label label-a">INSTITUTIONAL RESEARCH</span><span class="map-label label-b">EDUCATION & LEARNING</span><span class="map-label label-c">APPLIED INFORMATICS</span><span class="map-core">JSXA²I<small>KNOWLEDGE EXCHANGE</small></span></div>
 </section>
 {{% home-content %}}
 
