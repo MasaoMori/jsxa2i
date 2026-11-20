@@ -10,8 +10,7 @@
 
 ### 第1条（名称）
 
-本連合体は、日本応用情報学学術交流連合と称し、英文名称を *Japan Scholarly Exchange Alliance for Applied Informatics*、略称をJSXA²Iとする。
-
+1. 本連合体は、日本応用情報学学術交流連合と称し、英文名称を *Japan Scholarly Exchange Alliance for Applied Informatics*、略称をJSXA²Iとする。
 2. 電子的な情報処理等において上付き文字の使用が困難な場合には、略称をJSXA2Iと表記することができる。
 
 ### 第2条（組織の性格）
