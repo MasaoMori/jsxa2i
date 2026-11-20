@@ -1,1 +1,7 @@
-<ol class="principle-grid">{{ $page := .Page }}{{ range site.Data.principles }}<li><span>{{ .number }}</span><a href="{{ ($page.Site.GetPage "principles").RelPermalink }}">{{ index . $page.Language.Lang }}</a></li>{{ end }}</ol>
+{{- $page := .Page -}}
+{{- $principles := $page.Site.GetPage "principles" -}}
+<ol>
+  {{ range site.Data.principles }}
+  <li><a href="{{ $principles.RelPermalink }}">{{ index . $page.Language.Lang }}</a></li>
+  {{ end }}
+</ol>

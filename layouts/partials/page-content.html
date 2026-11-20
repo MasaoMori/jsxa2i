@@ -1,0 +1,6 @@
+<header class="page-heading">
+  <p class="eyebrow">{{ .Site.Title }} / {{ (index site.Data.ui .Language.Lang).concept }}</p>
+  <h1>{{ .Params.heading | default .Title }}</h1>
+  {{ with .Params.lead }}<p class="lead">{{ . }}</p>{{ end }}
+</header>
+<article class="prose">{{ .Content }}</article>

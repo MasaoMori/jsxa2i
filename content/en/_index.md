@@ -2,16 +2,11 @@
 title: "Home"
 translationKey: "home"
 outputs: ["HTML", "ENHome"]
+heading: "Japan Scholarly Exchange Alliance for Applied Informatics"
+lead: "A proposed alliance of Japanese scholarly societies to share research across institutions, disciplines and borders."
 ---
 
-<section class="hero container">
-<p class="eyebrow">JSXA²I</p>
-<h1>Japan Scholarly Exchange Alliance<br>for Applied Informatics</h1>
-<p class="hero-lead">A proposed alliance of Japanese scholarly societies to share research across institutions, disciplines and borders.</p>
-<p class="hero-links"><a class="button" href="{{< siteurl "en/founding/" >}}">Read the founding documents</a><a href="{{< siteurl "en/principles/" >}}">Our six principles</a></p>
-<div class="knowledge-map" aria-hidden="true"><span class="map-label label-a">INSTITUTIONAL RESEARCH</span><span class="map-label label-b">EDUCATION & LEARNING</span><span class="map-label label-c">APPLIED INFORMATICS</span><span class="map-core">JSXA²I<small>KNOWLEDGE EXCHANGE</small></span></div>
-</section>
-{{% home-content %}}
+[Read the founding documents]({{< siteurl "en/founding/" >}}) · [Our six principles]({{< siteurl "en/principles/" >}})
 
 ## From publishing knowledge to circulating knowledge
 
@@ -25,7 +20,7 @@ JSXA²I envisions a scholarly environment in which research can be discovered, u
 
 The proposed alliance will support scholarly information exchange in Japan and abroad, collaboration among societies and knowledge sharing across disciplines. It will promote the use and adoption of persistent identifiers (PIDs) alongside metadata standards.
 
-[Explore the proposed activities →]({{< siteurl "en/activities/" >}})
+[Explore the proposed activities]({{< siteurl "en/activities/" >}})
 
 ## Two organizations envisaged for collaboration
 
@@ -37,6 +32,4 @@ These organizations are named as part of the concept. Their participation, roles
 
 Explore journals, research reports, proceedings and academic activities at their original sources.
 
-[Explore scholarly resources →]({{< siteurl "en/resources/" >}})
-
-{{% /home-content %}}
+[Explore scholarly resources]({{< siteurl "en/resources/" >}})

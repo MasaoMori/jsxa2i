@@ -45,7 +45,7 @@ python3 scripts/check_site.py public /REPOSITORY
 [理念・目的]({{< siteurl "ja/mission/" >}})
 ```
 
-共通部品は `{{< organizations >}}`・`{{< principle-summary >}}` で挿入します。ホームの `home-content` ショートコードはMarkdown本文を共通デザインの領域で囲みます。HTMLを含むためGoldmarkの `unsafe = true` を有効にしています。信頼できる編集者のコンテンツを配置してください。
+共通部品は `{{< organizations >}}`・`{{< principle-summary >}}` で挿入します。ホームと通常ページは、`layouts/partials/page-content.html` で見出しと本文のレイアウトを共有します。HTMLを含むためGoldmarkの `unsafe = true` を有効にしています。信頼できる編集者のコンテンツを配置してください。
 
 お問い合わせは未受付です。窓口確定後、`hugo.toml` の `params.contact_email` と日英お問い合わせ本文を更新します。設定されるのはメールリンクです。
 
