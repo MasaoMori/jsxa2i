@@ -6,26 +6,26 @@ url: "/en/principles/"
 
 The following six principles are proposed as a basis for shared academic activity. They have not been formally adopted.
 
-## 01. Dissemination of Scholarly Information in Japan and Abroad {#01-international-dissemination-of-scholarly-knowledge}
+## 1. Dissemination of Scholarly Information in Japan and Abroad {#01-international-dissemination-of-scholarly-knowledge}
 
-Reduce barriers across countries, regions and languages so that scholarly outputs in applied informatics can be discovered, understood and used internationally.
+The Alliance promotes the discovery, understanding, citation and use of scholarly information across organizational, disciplinary, national and linguistic boundaries.
 
-## 02. Interdisciplinary Knowledge Exchange
+## 2. Interdisciplinary Knowledge Exchange {#02-interdisciplinary-knowledge-exchange}
 
-Use applied informatics as shared ground for exchange and mutual use of knowledge across institutional research, educational systems, data science, artificial intelligence and related fields.
+The Alliance promotes the exchange of knowledge, research methods and practical insights across disciplines and contributes to the creation of new scholarly knowledge.
 
-## 03. Openness and Interoperability
+## 3. Openness and Interoperability {#03-openness-and-interoperability}
 
-Promote access and appropriate reuse, and improve interoperability through widely used scholarly identifiers and metadata standards.
+The Alliance supports appropriate access to and reuse of scholarly information. It uses international persistent identifiers (PIDs) for scholarly information and metadata standards to improve discoverability, citability and interoperability.
 
-## 04. Academic Autonomy and Collaboration {#04-academic-independence-and-collaboration}
+## 4. Academic Autonomy and Collaboration {#04-academic-independence-and-collaboration}
 
-Respect the independence and academic autonomy of participating societies and institutions, and advance international exchange through collaboration on equal terms.
+The Alliance respects the independence and expertise of each member organization and addresses shared challenges on equal terms.
 
-## 05. Reliability and Responsible Use {#05-integrity-and-responsible-use}
+## 5. Reliability and Responsible Use {#05-integrity-and-responsible-use}
 
-Respect provenance, authorship, rights and research ethics, and support accurate, verifiable information and responsible use.
+The Alliance values the reliability of scholarly information and respects research ethics, copyright and source attribution. It promotes the appropriate dissemination and use of scholarly information.
 
-## 06. Sustained Knowledge Sharing and Preservation {#06-sustainable-scholarly-communication}
+## 6. Sustained Knowledge Sharing and Preservation {#06-sustainable-scholarly-communication}
 
-Avoid excessive dependence on a single technology or service, and support the long-term reference, sharing and transmission of scholarly knowledge.
+The Alliance places importance on keeping scholarly information available for long-term reference. It aims to build a sustainable environment for knowledge sharing without excessive reliance on any particular technology or information service.

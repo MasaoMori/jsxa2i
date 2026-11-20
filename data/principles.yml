@@ -2,37 +2,37 @@
   {
     "ja": "学術情報の国内外への流通",
     "en": "Dissemination of Scholarly Information in Japan and Abroad",
-    "text_ja": "国や地域、言語による学術情報へのアクセスの障壁を低減し、応用情報学の研究成果を国際的に発見・理解・利用できる環境の形成を目指します。",
-    "text_en": "Reduce barriers across countries, regions and languages so that scholarly outputs in applied informatics can be discovered, understood and used internationally."
+    "text_ja": "学術情報が組織、学術領域、国境及び言語の障壁を越えて発見、理解、参照及び活用されることを促進する。",
+    "text_en": "The Alliance promotes the discovery, understanding, citation and use of scholarly information across organizational, disciplinary, national and linguistic boundaries."
   },
   {
     "ja": "学際的な知識交流",
     "en": "Interdisciplinary Knowledge Exchange",
-    "text_ja": "応用情報学を共通基盤とし、IR、教育システム、データサイエンス、人工知能等の研究領域間における学術的知識の交流と相互活用を促進します。",
-    "text_en": "Use applied informatics as shared ground for exchange and mutual use of knowledge across institutional research, educational systems, data science, artificial intelligence and related fields."
+    "text_ja": "異なる学術領域における知識、研究方法及び実践的知見の相互交流を促進し、新たな学術的知識の創造に寄与する。",
+    "text_en": "The Alliance promotes the exchange of knowledge, research methods and practical insights across disciplines and contributes to the creation of new scholarly knowledge."
   },
   {
     "ja": "公開性と相互運用性",
     "en": "Openness and Interoperability",
-    "text_ja": "学術情報の公開と適切な再利用を推進し、学術情報の国際的な永続的識別子（PID）及びメタデータ標準の活用によって、情報システム間の相互運用性を高めます。",
-    "text_en": "Promote access and appropriate reuse, and improve interoperability through international persistent identifiers (PIDs) and metadata standards."
+    "text_ja": "学術情報の適切な公開と再利用を支援するとともに、学術情報の国際的な永続的識別子（Persistent Identifier：PID）及びメタデータ標準等を活用し、学術情報の発見可能性、参照可能性及び相互運用性の向上を推進する。",
+    "text_en": "The Alliance supports appropriate access to and reuse of scholarly information. It uses international persistent identifiers (PIDs) for scholarly information and metadata standards to improve discoverability, citability and interoperability."
   },
   {
     "ja": "学術的自律性と協働",
     "en": "Academic Autonomy and Collaboration",
-    "text_ja": "各構成団体の独立性及び学術的自律性を尊重し、対等な立場での協働を通じて国際的な学術交流を発展させます。",
-    "text_en": "Respect the independence and academic autonomy of member societies, and advance international exchange through collaboration on equal terms."
+    "text_ja": "各構成団体の独立性と専門性を尊重し、対等な立場で共通の課題に取り組む。",
+    "text_en": "The Alliance respects the independence and expertise of each member organization and addresses shared challenges on equal terms."
   },
   {
     "ja": "信頼性と責任ある利用",
     "en": "Reliability and Responsible Use",
-    "text_ja": "学術情報の出典、著作者、権利関係及び研究倫理を尊重し、正確で検証可能な情報の提供と責任ある利用を推進します。",
-    "text_en": "Respect provenance, authorship, rights and research ethics, and support accurate, verifiable information and responsible use."
+    "text_ja": "学術情報の信頼性、研究倫理、著作権及び情報の出典を尊重し、適切な情報の流通と利用を推進する。",
+    "text_en": "The Alliance values the reliability of scholarly information and respects research ethics, copyright and source attribution. It promotes the appropriate dissemination and use of scholarly information."
   },
   {
     "ja": "持続的な知識の共有と継承",
     "en": "Sustained Knowledge Sharing and Preservation",
-    "text_ja": "特定の技術や情報サービスへの過度な依存を避け、学術情報を長期的に参照・継承できる仕組みの形成を目指します。",
-    "text_en": "Avoid excessive dependence on a single technology or service, and support the long-term reference, sharing and transmission of scholarly knowledge."
+    "text_ja": "学術情報の長期的な参照可能性を重視し、特定の技術又は情報サービスに過度に依存しない、持続可能な知識共有の環境の形成を目指す。",
+    "text_en": "The Alliance places importance on keeping scholarly information available for long-term reference. It aims to build a sustainable environment for knowledge sharing without excessive reliance on any particular technology or information service."
   }
 ]
