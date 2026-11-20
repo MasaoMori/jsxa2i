@@ -1,0 +1,8 @@
+{{- $name := site.Params.name -}}
+{{- if eq .Page.Language.Lang "ja" -}}
+  {{- $name = "日本応用情報学学術交流連合" -}}
+{{- end -}}
+<h1>
+  <img class="hero-banner" src="{{ "assets/images/jsxa2i-banner.png" | relURL }}"
+    width="1983" height="793" alt="{{ $name }}（{{ site.Title }}）">
+</h1>
