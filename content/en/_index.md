@@ -6,13 +6,13 @@ heading: "Japan Scholarly Exchange Alliance for Applied Informatics"
 lead: "A proposed alliance of Japanese scholarly societies to share research across institutions, disciplines and borders."
 ---
 
-[Read the founding documents]({{< siteurl "en/founding/" >}}) · [Our six principles]({{< siteurl "en/principles/" >}})
+[Read the founding documents]({{< siteurl "en/founding/" >}}) · [Six Basic Principles]({{< siteurl "en/principles/" >}})
 
 ## From publishing knowledge to circulating knowledge
 
 JSXA²I envisions a scholarly environment in which research can be discovered, understood, referenced and responsibly reused across disciplines and languages. It aims to connect research and practice and sustain a cycle of knowledge creation, exchange and use.
 
-### Six principles at the heart of the concept
+### Six Basic Principles
 
 {{< principle-summary >}}
 
